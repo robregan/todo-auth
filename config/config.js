@@ -37,7 +37,7 @@ exports.creds = {
     clockSkew: null,
   };
   
-  exports.destroySessionUrl = 'http://localhost:2121';
+  exports.destroySessionUrl = 'https://todo-ms-auth.herokuapp.com/';
   
   exports.useMongoDBSessionStore = false;
   
